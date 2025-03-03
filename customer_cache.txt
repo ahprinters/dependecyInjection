@@ -1,0 +1,1 @@
+O:8:"Customer":3:{s:10:"customerID";i:101;s:4:"name";s:9:"Bob Smith";s:5:"email";s:21:"bob.smith@example.com";}
